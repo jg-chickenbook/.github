@@ -1,4 +1,4 @@
-## Chickenbook Project
+## Junior Guru Chickenbook Project
 
 
 <!--
